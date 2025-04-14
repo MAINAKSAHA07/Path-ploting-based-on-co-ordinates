@@ -53,7 +53,7 @@ This project visualizes GPS data by plotting paths based on latitude and longitu
 
 The output of the script is an interactive map saved as `combined_map.html`. Below is an example of what the map looks like:
 
-![Map Visualization](<img width="1401" alt="Screenshot 2025-04-14 at 1 36 54 PM" src="https://github.com/user-attachments/assets/e3a6f82d-a2b0-441d-bd72-6fd75042cd8a" />
+![Map Visualization]([<img width="1401" alt="Screenshot 2025-04-14 at 1 36 54 PM" src="https://github.com/user-attachments/assets/e3a6f82d-a2b0-441d-bd72-6fd75042cd8a" /](https://github.com/MAINAKSAHA07/Path-ploting-based-on-co-ordinates/blob/main/Screenshot%202025-04-14%20at%201.36.54%E2%80%AFPM.png)>
 )
 
 ### Example Map Features:
