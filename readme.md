@@ -53,7 +53,8 @@ This project visualizes GPS data by plotting paths based on latitude and longitu
 
 The output of the script is an interactive map saved as `combined_map.html`. Below is an example of what the map looks like:
 
-![Map Visualization](path/to/your/screenshot.png)
+![Map Visualization](<img width="1401" alt="Screenshot 2025-04-14 at 1 36 54 PM" src="https://github.com/user-attachments/assets/e3a6f82d-a2b0-441d-bd72-6fd75042cd8a" />
+)
 
 ### Example Map Features:
 - **Path Color Legend**: Indicates heart rate levels along the path.
